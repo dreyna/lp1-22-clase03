@@ -20,10 +20,22 @@
                 <h4 style="margin-left: 5px;">Ingeniería de Sistemas</h4>
             </div>            
             <nav class="nav">
-                <a href="#">Home</a>
-                <a href="#">Usuarios</a>
-                <a href="#">Ventas</a>
-                <a href="#">Reportes</a>
+                <a href="#" class="icono">
+                    <i class="fa-solid fa-house"></i>
+                    <p>Home</p>
+                </a>
+                <a href="#" class="icono">
+                    <i class="fa-solid fa-users"></i>
+                    <p>Usuarios</p>
+                </a>
+                <a href="#" class="icono">
+                    <i class="fa-solid fa-cart-shopping"></i>
+                    <p>Ventas</p>
+                </a>
+                <a href="#" class="icono">
+                    <i class="fa-solid fa-chart-line"></i>
+                    <p>Reportes</p>
+                </a>
             </nav>
             <div class="login">
                 <a href="#"><i class="fa-solid fa-user"></i>
