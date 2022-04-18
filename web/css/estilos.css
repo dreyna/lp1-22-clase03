@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Raleway:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Send+Flowers&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: 100%;
+    height: 3.2rem;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    background-color: #d3e7fb;
+    /*font-family: 'Poppins', sans-serif;*/
+
+}
+.empresa{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    font-family: 'Send Flowers', cursive;
+    font-size: 24px;
+}
+.login{
+    margin-right: 20px;
+}
