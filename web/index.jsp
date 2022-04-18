@@ -26,10 +26,11 @@
                 <a href="#">Reportes</a>
             </nav>
             <div class="login">
-                <a href="#"><i class="fa-solid fa-user"></i></a>
-                <strong>
-                    Admin
-                </strong>
+                <a href="#"><i class="fa-solid fa-user"></i>
+                    <strong>
+                        Admin
+                    </strong>
+                </a>
             </div>
         </header>
     </body>

@@ -27,3 +27,20 @@
 .login{
     margin-right: 20px;
 }
+.nav{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    
+}
+a{
+    text-decoration: none;
+    color: #054484;
+}
+.nav a:hover{
+    background-color: #054484;
+    color: white;
+    padding: 0.02rem;
+}
